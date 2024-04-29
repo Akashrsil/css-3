@@ -1,0 +1,2 @@
+Explain the difference between Absolute and Relative position?
+Ans:Relative positioning moves an element relative to its default position on the page, while absolute positioning moves an element relative to its nearest positioned ancestor

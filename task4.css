@@ -1,0 +1,14 @@
+#navbar {
+    background-color: black;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+
+}
+
+a {
+    color: white;
+    margin-left: 140px;
+    position: relative;
+    top: 20px;
+}
